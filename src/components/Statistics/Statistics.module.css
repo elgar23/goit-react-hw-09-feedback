@@ -1,0 +1,9 @@
+.statLi {
+    list-style-type: none;
+  }
+  .statLi:not(:last-child) {
+    margin-bottom: 5px;
+  }
+  .statUl {
+    padding: 0px;
+  }

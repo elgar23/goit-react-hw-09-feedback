@@ -1,0 +1,6 @@
+.buttons :not(:first-child) {
+    margin-left: 10px;
+  }
+  .button:active {
+    background-color: dodgerblue;
+  }
